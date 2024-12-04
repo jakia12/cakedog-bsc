@@ -196,7 +196,7 @@ video {
   text-align: center;
   width: -moz-max-content;
   width: max-content;
-  background: #fed330;
+  background: #ffb818;
   border: 3px solid black;
   font-family: "To Japan", sans-serif;
   font-size: 24px;
@@ -566,7 +566,7 @@ h2 {
   padding-top: 22px;
 }
 .hero__social-btn {
-  background: #fed330;
+  background: #ffb818;
 }
 
 .hero__social-btn:hover {
@@ -730,7 +730,7 @@ h2 {
 
 .tokenomics__inner {
   /*	background: url(../images/tokenomics-background.png) left top no-repeat, #ffe8ce;*/
-  background: #fed330;
+  background: #ffb818;
   background-size: contain;
   border: 6px solid #000;
   border-radius: 36px;
@@ -808,7 +808,7 @@ h2 {
 }
 
 .tokenomics__item {
-  background: #fed330;
+  background: #ffb818;
   border-radius: 24px;
   border: 5px solid black;
   padding: 24px 28px;
@@ -1028,7 +1028,7 @@ h2 {
 }
 
 .footer__social-btn {
-  background: #fed330;
+  background: #ffb818;
 }
 
 .footer__social-btn:hover {
@@ -1036,7 +1036,7 @@ h2 {
 }
 
 .footer__btn {
-  background: #fed330;
+  background: #ffb818;
 }
 
 .footer__btn:hover {
