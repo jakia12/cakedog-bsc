@@ -510,7 +510,7 @@ h2 {
 }
 
 .hero__title {
-  font-size: 184px;
+  font-size: 7vw;
   color: #fff;
   text-shadow: black 7px 0px 0px, black 6.92869px 0.996602px 0px,
     black 6.71622px 1.9729px 0px, black 6.36692px 2.909px 0px,
@@ -544,9 +544,9 @@ h2 {
 }
 
 .hero__text {
-  margin: 24px;
+  margin: 28px;
   font-family: "To Japan", sans-serif;
-  font-size: 24px;
+  font-size: 16px;
   color: #fff;
   font-weight: 400;
   line-height: 1.33;
@@ -554,7 +554,7 @@ h2 {
 
 @media screen and (max-width: 640px) {
   .hero__text {
-    font-size: 20px;
+    font-size: 15px;
   }
 }
 
@@ -1099,7 +1099,7 @@ h2 {
     font-size: 37px;
   }
   .hero__title {
-    font-size: 35vw;
+    font-size: 15vw;
     margin-top: 26px;
     line-height: 74px;
   }
